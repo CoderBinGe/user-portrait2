@@ -8,8 +8,10 @@
 
 CNN：
 loss: 1.0396 - accuracy: 0.6423 - val_loss: 1.1583 - val_accuracy: 0.5306
+
 LSTM:
 loss: 0.9357 - accuracy: 0.6418 - val_loss: 1.3736 - val_accuracy: 0.4895
+
 RCNN：
 loss: 1.1153 - accuracy: 0.5993 - val_loss: 1.4426 - val_accuracy: 0.4012
 
